@@ -1,0 +1,125 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.a1{
+  margin: auto;
+  font-size: 50px;
+  color:#458ccc;
+  width: 900px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.a1 img, .a1 span{
+  vertical-align:middle;
+}
+.a2{
+  text-align: left;
+  margin: auto;
+  border: 5px solid #458ccc;
+width: 1150px;
+padding: 20px;
+}
+.a2 span{
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.a2 img{
+  width: 200px;
+  height: 200px;
+  margin: 0px;
+}
+figure{
+  display: inline-block;
+}
+figcaption{
+  margin-top: 30px;
+}
+.f1{
+  /* border: 2px solid red; */
+  text-align: center;
+}
+.a3{
+  margin: auto;
+  margin-top: 50px;
+}
+.b1{
+  display: inline-block;
+margin-right: 50px;
+vertical-align: top;
+}
+.a311{
+    margin: auto;
+
+  background-image: url(sprite5.png);
+  background-repeat: no-repeat;
+  background-position: 2px 2px;
+  width: 120px;
+  height: 120px;
+}
+.a321{
+    margin: auto;
+
+  background-image: url(sprite5.png);
+  background-repeat: no-repeat;
+  background-position: 2px -100px;
+  width: 120px;
+  height: 120px;
+}
+.a331{
+    margin: auto;
+
+  background-image: url(sprite5.png);
+  background-repeat: no-repeat;
+  background-position: 2px -205px;
+  width: 120px;
+  height: 120px;
+}
+.a341{
+    margin: auto;
+
+  background-image: url(sprite5.png);
+  background-repeat: no-repeat;
+  background-position: 2px -340px;
+  width: 120px;
+  height: 120px;
+}
+.a351{
+    margin: auto;
+
+  background-image: url(sprite5.png);
+  background-repeat: no-repeat;
+  background-position: 2px -490px;
+  width: 120px;
+  height: 120px;
+}
+
+.a4{
+  margin: auto;
+  width: 200px;
+  height: 70px;
+  border: 1px solid #0101ff;
+  background-color: #458ccc;
+  color:white;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  position: relative;
+}
+.a4 a{
+  position: absolute;
+
+  margin: 0;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  font-size: 35px;
+  color:white;
+  font-weight: bold;
+text-decoration: none;
+
+}
